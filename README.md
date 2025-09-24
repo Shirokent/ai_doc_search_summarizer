@@ -6,7 +6,6 @@ A containerized FastAPI service for uploading, indexing, searching, and summariz
 - **Upload documents** via REST API  
 - **Search** indexed content with keyword queries  
 - **Summarize** search results into concise responses  
-- **Interactive API docs** available at `/docs`  
 
 ## Tech Stack
 - **FastAPI** for API endpoints  
